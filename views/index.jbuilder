@@ -1,0 +1,1 @@
+json.text 'Here are some articles'
